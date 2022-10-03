@@ -1,0 +1,8 @@
+<!-- Navbar -->
+<app-nav></app-nav>
+
+<!-- This directive handles the routing: -->
+<router-outlet></router-outlet>
+
+<!-- Auth Modal -->
+<app-auth-modal *ngIf="!(auth.isAuthenticatedWithDelay$ | async)"></app-auth-modal>
