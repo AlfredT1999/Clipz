@@ -13,7 +13,7 @@ The tech stack used in this project is:
 * Web assembly
 * Vercel for publishing
 
-The web page is = https://clipz-six.vercel.app/
+The web-app is = https://clipz-six.vercel.app/
 
 ## Development server
 
